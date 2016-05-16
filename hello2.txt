@@ -1,1 +1,5 @@
-沙发发的飞洒发的
+
+<?php
+echo '菜鸟教程：www.runoob.com';
+?>
+>>>>>>> test
